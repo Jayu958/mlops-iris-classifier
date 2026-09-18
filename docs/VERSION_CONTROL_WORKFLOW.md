@@ -2,9 +2,9 @@
 ## 1. Overview
 This document describes the Git-based version control workflow used for this
 Machine Learning project, developed as part of MLOps Lab Experiment 2.
-- **Repository:** https://github.com/<your-username>/ml-mlops-lab2
+- **Repository:** https://github.com/Jayu958/mlops-iris-classifier
 - **Primary language:** Python
-- **Maintainer(s):** [Your Name]
+- **Maintainer(s):** Jayesh Patil
 ## 2. Branching Strategy
 | Branch            | Purpose                                             |
 |--------------------|------------------------------------------------------|
